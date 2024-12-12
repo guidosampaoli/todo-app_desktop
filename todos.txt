@@ -8,4 +8,6 @@ Newtask
 Learn python!
 Do daily python exercises
 Task__066
-New task from gui
+New task from gui edited
+Newtaskarda_edit
+New task added
