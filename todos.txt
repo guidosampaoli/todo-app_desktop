@@ -5,4 +5,7 @@ task_02
 Task_05
 Newtask02
 Newtask
-Cacona
+Learn python!
+Do daily python exercises
+Task__066
+New task from gui

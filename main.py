@@ -42,6 +42,9 @@ while True:
         except IndexError:
             print("There is no item with that number.")
             continue
+        except ValueError:
+            print("Please select a number of ToDo to complete.")
+            continue
 
     elif user_action.startswith("exit"):
         break
