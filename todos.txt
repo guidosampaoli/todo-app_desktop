@@ -4,7 +4,6 @@ Scrape
 task_02
 Task_05
 Newtask02
-Newtask
 Learn python!
 Do daily python exercises
 Task__066
